@@ -5,3 +5,6 @@ This repository describes and makes available all anatomical data corresponding 
 If you use this class in your own work, kindly cite:
 
 "Bingham C.S., Parent M., McIntyre C.C. Histology-Driven Model of the Macaque Motor Hyperdirect Pathway. (Accepted 2021). Brain Structure and Function."
+
+
+![Pathway Example](https://github.com/bingsome/MacaqueHyperdirectPathway/blob/master/Lhem_splined_HDP.png)
